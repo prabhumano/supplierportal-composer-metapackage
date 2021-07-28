@@ -1,0 +1,13 @@
+{
+    "name": "prabhumano/supplierportal-metapackage",
+    "version": "21.1.0",
+    "description": "Metapackage with Magento Inventory modules for simple installation",
+    "type": "metapackage",
+    "require": {
+        "leanswift/supplierportal-composer-installer": "21.1.0",
+        "leanswift/module-supplier-portal": "*",
+        "leanswift/module-supplier-portal-advise-notify-po": "*",
+        "leanswift/module-supplier-portal-invoice": "*",
+        "leanswift/module-supplier-portal-delivery": "*"
+    }
+}
