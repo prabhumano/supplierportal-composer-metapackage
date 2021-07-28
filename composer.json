@@ -4,7 +4,7 @@
     "description": "Metapackage with SupplierPortal modules for simple installation",
     "type": "metapackage",
     "require": {
-        "leanswift/supplierportal-composer-installer": "21.1.0",
+        "leanswift/module-econnect-base": "*",
         "leanswift/module-supplier-portal": "*",
         "leanswift/module-supplier-portal-advise-notify-po": "*",
         "leanswift/module-supplier-portal-invoice": "*",
